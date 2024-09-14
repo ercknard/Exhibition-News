@@ -1,3 +1,3 @@
-# Welcome to EXHIBITION
+Welcome to EXHIBITION
 
-**this is sample welcome message**
+this is sample welcome message
