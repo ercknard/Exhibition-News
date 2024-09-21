@@ -17,11 +17,11 @@ We are excited to announce a major update to our platform! This update brings se
 
 ## How to Get Started
 
-Visit our [website](https://example.com) for more details on the new features and updates. If you have any questions or need support, please contact our [support team](mailto:support@example.com).
+Visit our [cryptech.services](https://cryptech.services) for more details on the new features and updates. If you have any questions or need support, please contact our [support team](mailto:inquries@cryptech.services).
 
 Thank you for your continued support!
 
 ---
 
 *Best regards,*  
-*The Example Team*
+*The Cryptech Team*
